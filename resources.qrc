@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>brick.png</file>
+        <file>good_way.png</file>
+        <file>start.png</file>
+        <file>way.png</file>
+        <file>win.png</file>
+    </qresource>
+</RCC>
